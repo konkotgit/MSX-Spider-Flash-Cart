@@ -23,7 +23,7 @@ You can use 8, 16, 32 or 48kB ROM file.
 This program uses flashing software written by [HRA!](https://github.com/hra1129).
 
 
-You can access the `WRTSST.COM` utility here: [WRTSST.COM](https://github.com/hra1129/MSX_MegaSCC_for_SST39SF040/blob/main/tools/wrtsst/WRTSST.COM).
+You can access the `WRTSST.COM` utility here: [WRTSST.COM](https://github.com/hra1129/MSX_MegaSCC_for_SST39SF040/tree/main/tools/wrtsst).
 
 
 ![Spider Flash Cart](/photos/spider_flash_02.jpg)
