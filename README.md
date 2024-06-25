@@ -1,10 +1,13 @@
 # MSX Spider Flash Cartridge
-Very Simple Cartridge for MSX Computers
+Very simple cartridge for MSX Computers
 
-With this PCB you can build your own MSX ROM cartridges.
+With this PCB, you can build your own MSX ROM cartridges.
 
 You can use 8, 16, 32 or 48kB ROM file.
 
+## Supported flash chips
+
+* SST39SF010/20/40
 
 ## Programming Spider Flash Cartridge
 
@@ -20,10 +23,10 @@ You can use 8, 16, 32 or 48kB ROM file.
 7. Power cycle the computer. Your cartridge is ready for use.
 
 
-This program uses flashing software written by [HRA!](https://github.com/hra1129).
+This project utilizes flashing software developed by [HRA!](https://github.com/hra1129).
 
 
-You can access the `WRTSST.COM` utility here: [WRTSST.COM](https://github.com/hra1129/MSX_MegaSCC_for_SST39SF040/tree/main/tools/wrtsst).
+You can download the `WRTSST.COM` utility here: [WRTSST.COM](https://github.com/hra1129/MSX_MegaSCC_for_SST39SF040/tree/main/tools/wrtsst).
 
 
 ![Spider Flash Cart](/photos/spider_flash_02.jpg)
